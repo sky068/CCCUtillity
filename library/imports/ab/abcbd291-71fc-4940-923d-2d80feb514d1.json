@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "test-taotao",
+    "texture": "43793956-bc3d-47c6-97b8-2ece125251d8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2044,
+      2044
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

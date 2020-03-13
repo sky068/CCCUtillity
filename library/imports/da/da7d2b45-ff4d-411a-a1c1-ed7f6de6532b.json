@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WeChat23d518af58d130a747fa0b8bc945ab19",
+    "texture": "a2d3f979-c379-4d38-accf-e1334c150891",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
